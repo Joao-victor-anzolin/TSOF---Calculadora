@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\bin\Debug\net8.0\Teste01.deps.json
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\bin\Debug\net8.0\Teste01.dll
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\bin\Debug\net8.0\Teste01.pdb
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.dll
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\refint\Teste01.dll
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\Teste01.pdb
+C:\Users\SENAI3EM\Desktop\TesteSoftware\Teste01\Teste01\obj\Debug\net8.0\ref\Teste01.dll
